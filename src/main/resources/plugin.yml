@@ -2,3 +2,13 @@ name: craftingTable
 version: '${project.version}'
 main: de.felix.craftingtable.CraftingTable
 api-version: '1.21'
+commands:
+  ct:
+    description: 'opens Workbench'
+    usage: '/ct'
+  wb:
+    description: 'opens Workbench'
+    usage: '/wb'
+  crafter:
+    description: 'opens Workbench'
+    usage: '/wb'
