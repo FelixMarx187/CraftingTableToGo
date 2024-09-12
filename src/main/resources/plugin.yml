@@ -1,0 +1,4 @@
+name: craftingTable
+version: '${project.version}'
+main: de.felix.craftingtable.CraftingTable
+api-version: '1.21'
