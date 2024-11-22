@@ -25,4 +25,4 @@ To open your CraftingTable with this you can use this Commands:
 
 ## Download
 
-You can [download](https://github.com/FelixMarx187/CraftingTableToGo/releases/tag/1.21) the latest Version the QuitJoinMessages Plugin for your 1.21 Minecraft Server
+You can [download](https://github.com/FelixMarx187/CraftingTableToGo/releases/tag/1.21) the latest Version of the CratingTableToGo Plugin for your 1.21 Minecraft Server
